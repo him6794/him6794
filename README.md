@@ -45,8 +45,9 @@
 
 ### 📈 Contributions & Metrics
 <p align="center">
-  <img src="/github-metrics.svg" width="75%"/>
+  <img src="https://raw.githubusercontent.com/him6794/him6794/main/github-metrics.svg?timestamp=1" width="75%"/>
 </p>
+
 
 ---
 
