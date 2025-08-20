@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://discord.com/users/882952356508094484">
     <img 
-      src="https://lanyard.cnrad.dev/api/882952356508094484?bg=1a1b27&animated=true&idleMessage=Coding%20never%20stops&borderRadius=25px" 
+      src="https://lanyard.cnrad.dev/api/882952356508094484?bg=1a1b27&animated=true&idleMessage=Coding%20never%20stops&borderRadius=25px?timestamp=123" 
       alt="Discord Presence" 
     />
   </a>
