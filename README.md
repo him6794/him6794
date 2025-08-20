@@ -16,10 +16,22 @@
 
 ---
 
+### 🎮 Discord
+<p align="center">
+  <a href="https://discord.com/users/882952356508094484">
+    <img 
+      src="https://lanyard.cnrad.dev/api/882952356508094484?bg=1a1b27&animated=true&idleMessage=Coding%20never%20stops&borderRadius=25px" 
+      alt="Discord Presence" 
+    />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justin0711&show_icons=true&theme=calm&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justin0711&layout=compact&theme=calm" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=him6794&show_icons=true&theme=calm&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=him6794&layout=compact&theme=calm" height="180"/>
 </p>
 
 ---
@@ -39,5 +51,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=justin0711&style=flat-square&color=00ffb3" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=him6794&style=flat-square&color=00ffb3" alt="Profile views"/>
 </p>
