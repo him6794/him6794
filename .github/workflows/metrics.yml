@@ -1,7 +1,11 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 * * * *"}]  # 每小時自動更新一次
+  schedule: [{cron: "0 * * * *"}]   # 每小時自動更新一次
   workflow_dispatch:               # 手動觸發
+
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
