@@ -1,0 +1,12 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 * * * *"}]  # 每小時自動更新一次
+  workflow_dispatch:               # 手動觸發
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
