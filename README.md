@@ -1,22 +1,35 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=I+BUILD+DISTRIBUTED+SYSTEMS;OPEN+SOURCE+%26+PYTHON+DEV;ALWAYS+LEARNING+%F0%9F%92%A1" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFB3&center=true&vCenter=true&width=750&lines=DISTRIBUTED+SYSTEMS+ENGINEERING;PYTHON+DEVELOPMENT;SCALABLE+COMPUTE+ARCHITECTURES" 
     alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 Hi, I’m Justin
+## About Me
 
-- 🎓 High school student passionate about **distributed computing** & **open source**  
-- 🐍 Mainly coding in **Python** (with some C++ background)  
-- 🕹 Built projects from **distributed platforms** to **Discord bots** & **games**  
-- 🌐 Personal website: [justin0711.com](https://justin0711.com)  
-- 🚀 Always exploring new ways to make computing **faster, scalable, decentralized**  
+I am Justin, a high school student focusing on distributed systems, backend engineering, and high-performance computing infrastructure.  
+My work is centered around building scalable platforms, understanding system-level behavior, and exploring architecture patterns that efficiently coordinate computing resources.
+
+Key areas of interest:
+- Distributed computing with centralized orchestration  
+- Python-based backend and systems engineering  
+- gRPC service design and inter-node communication  
+- Containerized execution environments and worker isolation  
+- Linux deployment, embedded devices, and small-scale cloud infrastructure  
+
+Personal website: https://justin0711.com
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=him6794&show_icons=true&theme=calm&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=him6794&layout=compact&theme=calm" height="170"/>
+</p>
 
 ---
 
-### 🎮 Discord
+## Discord
+
 <p align="center">
   <a href="https://discord.com/users/882952356508094484">
     <img 
@@ -28,29 +41,35 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=him6794&show_icons=true&theme=calm&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=him6794&layout=compact&theme=calm" height="180"/>
-</p>
+## Metrics
 
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,docker,linux" />
-</p>
-
----
-
-### 📈 Contributions & Metrics
 <p align="center">
   <img src="https://raw.githubusercontent.com/him6794/him6794/main/github-metrics.svg?timestamp=1" width="75%"/>
 </p>
 
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=him6794&style=flat-square&color=00ffb3" alt="Profile views"/>
 </p>
+
+---
+
+# 中文
+
+<p align="center">
+  <b>關於我</b>
+</p>
+
+我是一名普通的高中生，主要研究分布式系統、後端工程與高效能運算架構。  
+目前專注在建立以中心化管理的分布式運算平台，並深入理解系統設計、節點協調與可擴展架構。
+
+興趣領域：
+- 中心化調度的分布式計算架構  
+- Python 系統開發與後端工程  
+- gRPC 通訊與跨節點遠端呼叫  
+- Docker 隔離執行環境  
+- Linux、嵌入式設備及輕量伺服器架設  
+
+個人網站：https://justin0711.com
+
+---
+
