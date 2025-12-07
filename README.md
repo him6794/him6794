@@ -19,11 +19,12 @@ Key areas of interest:
 - Linux deployment, embedded devices, and small-scale cloud infrastructure  
 
 Personal website: https://justin0711.com
+
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=him6794&show_icons=true&theme=calm&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=him6794&layout=compact&theme=calm" height="170"/>
+  <img src="https://github-readme-stats-sage-nine-65.vercel.app/api?username=him6794&show_icons=true&theme=calm&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-sage-nine-65.vercel.app/api/top-langs/?username=him6794&layout=compact&theme=calm" height="170"/>
 </p>
 
 ---
@@ -72,4 +73,3 @@ Personal website: https://justin0711.com
 個人網站：https://justin0711.com
 
 ---
-
