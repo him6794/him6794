@@ -1,75 +1,152 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFB3&center=true&vCenter=true&width=750&lines=DISTRIBUTED+SYSTEMS+ENGINEERING;PYTHON+DEVELOPMENT;SCALABLE+COMPUTE+ARCHITECTURES" 
-    alt="Typing SVG" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=900&lines=Distributed+Infrastructure+Engineering;Backend+Systems+%26+Orchestration;Python+%7C+gRPC+%7C+Docker+%7C+Linux" 
+    alt="Typing SVG"
+  />
+</p>
+
+<h1 align="center">Justin / him6794</h1>
+
+<p align="center">
+High school student building distributed computing infrastructure and scalable backend systems.
+</p>
+
+<p align="center">
+Focused on orchestration systems, containerized execution, and lightweight self-hosted infrastructure.
+</p>
+
+---
+
+## Current Focus
+
+* Building a distributed compute platform
+* Designing node orchestration and task scheduling systems
+* Exploring scalable gRPC communication architectures
+* Running self-hosted backend infrastructure on ARM devices
+* Optimizing lightweight backend services and execution environments
+
+---
+
+## Featured Project
+
+### Hivemind
+
+A distributed computing platform focused on scalable task orchestration and remote execution.
+
+#### Core Architecture
+
+* Centralized orchestration system
+* Distributed worker node management
+* gRPC-based inter-node communication
+* Container-isolated task execution
+* Dynamic node allocation
+* Fault-tolerant retry mechanisms
+
+#### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
 ## About Me
 
-I am Justin, a high school student focusing on distributed systems, backend engineering, and high-performance computing infrastructure.  
-My work is centered around building scalable platforms, understanding system-level behavior, and exploring architecture patterns that efficiently coordinate computing resources.
-
-Key areas of interest:
-- Distributed computing with centralized orchestration  
-- Python-based backend and systems engineering  
-- gRPC service design and inter-node communication  
-- Containerized execution environments and worker isolation  
-- Linux deployment, embedded devices, and small-scale cloud infrastructure  
+* Distributed systems engineering
+* Backend infrastructure development
+* Python systems programming
+* Containerized execution environments
+* Linux deployment and lightweight servers
+* Embedded and ARM-based infrastructure
 
 Personal website: https://justin0711.com
 
-## GitHub Statistics
+---
+
+## Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sage-nine-65.vercel.app/api?username=him6794&show_icons=true&theme=calm&count_private=true" height="170"/>
-  <img src="https://github-readme-stats-sage-nine-65.vercel.app/api/top-langs/?username=him6794&layout=compact&theme=calm" height="170"/>
+  <img 
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2621&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Weekly+Coding+Stats&layout=compact&cache_seconds=0&langs_count=8"
+    height="170"
+  />
 </p>
 
 ---
 
-## Discord
+## Activity Heatmap
+
+<p align="center">
+  <a href="https://heatmap.shymike.dev?id=2621&timezone=Asia%2FChongqing&labels=true&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://heatmap.shymike.dev?id=2621&timezone=Asia%2FChongqing&labels=true&theme=dark"
+      >
+      <img 
+        alt="Hackatime activity heatmap" 
+        src="https://heatmap.shymike.dev?id=2621&timezone=Asia%2FChongqing&labels=true&theme=light"
+      >
+    </picture>
+  </a>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sage-nine-65.vercel.app/api?username=him6794&show_icons=true&theme=transparent&count_private=true" 
+    height="170"
+  />
+
+<img 
+ src="https://github-readme-stats-sage-nine-65.vercel.app/api/top-langs/?username=him6794&layout=compact&theme=transparent" 
+ height="170"
+/>
+
+</p>
+
+---
+
+## Discord Presence
 
 <p align="center">
   <a href="https://discord.com/users/882952356508094484">
     <img 
-      src="https://lanyard.cnrad.dev/api/882952356508094484?bg=1a1b27&animated=true&idleMessage=Coding%20never%20stops&borderRadius=25px?timestamp=123" 
-      alt="Discord Presence" 
+      src="https://lanyard.cnrad.dev/api/882952356508094484?bg=0d1117&animated=true&idleMessage=Building%20distributed%20systems&borderRadius=20px"
+      alt="Discord Presence"
     />
   </a>
 </p>
 
 ---
 
-## Metrics
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/him6794/him6794/main/github-metrics.svg?timestamp=1" width="75%"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=him6794&style=flat-square&color=00ffb3"
+    alt="Profile views"
+  />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=him6794&style=flat-square&color=00ffb3" alt="Profile views"/>
-</p>
+<details>
+<summary>中文版本</summary>
 
----
+## 關於我
 
-# 中文
+目前主要研究：
 
-<p align="center">
-  <b>關於我</b>
-</p>
+* 分布式系統
+* 後端基礎架構
+* Python 系統開發
+* gRPC 節點通訊
+* Docker 隔離執行環境
+* Linux 與 ARM 自架伺服器
 
-我是一名普通的高中生，主要研究分布式系統、後端工程與高效能運算架構。  
-目前專注在建立以中心化管理的分布式運算平台，並深入理解系統設計、節點協調與可擴展架構。
+目前正在開發一套以 Python、gRPC 與 Docker 為核心的分散式運算平台。
 
-興趣領域：
-- 中心化調度的分布式計算架構  
-- Python 系統開發與後端工程  
-- gRPC 通訊與跨節點遠端呼叫  
-- Docker 隔離執行環境  
-- Linux、嵌入式設備及輕量伺服器架設  
-
-個人網站：https://justin0711.com
-
----
+</details>
