@@ -100,7 +100,7 @@ Personal website: https://justin0711.com
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sage-nine-65.vercel.app/api?username=him6794&show_icons=true&theme=transparent&count_private=true" 
+    src="https://github-stats-extended.vercel.app/api?username=him6794" 
     height="170"
   />
 
